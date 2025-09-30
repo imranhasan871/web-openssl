@@ -68,13 +68,15 @@ A comprehensive, production-ready web interface for OpenSSL operations with mode
    - API Docs: http://localhost:8080/swagger
 
 ## Screenshots
-<img width="1920" height="2294" alt="homepage" src="https://github.com/user-attachments/assets/6994ca0e-0fbe-4bbe-a688-1b324fa91552" />
-<img width="1920" height="2294" alt="homepage" src="https://github.com/user-attachments/assets/6ff55e45-6b0c-4341-86df-7a363f6cc681" />
+<img width="1920" height="2294" alt="homepage" src="https://github.com/user-attachments/assets/6994ca0e-0fbe-4bbe-a688-1b324fa91552" />+
+
 <img width="1920" height="911" alt="loginpage" src="https://github.com/user-attachments/assets/8a8624e9-c1e2-44b9-a20f-6aae0f461cf5" />
+
 <img width="1920" height="911" alt="encription" src="https://github.com/user-attachments/assets/92683bee-4a8a-4c47-8434-91e25ca3d88a" />
+
 <img width="1920" height="911" alt="certificate page" src="https://github.com/user-attachments/assets/8f655011-8039-46eb-9705-761ae9da761e" />
+
 <img width="1920" height="911" alt="dashboard" src="https://github.com/user-attachments/assets/e55bf033-86f7-4445-8930-3071c04ed0ec" />
-<img width="1920" height="2294" alt="homepage" src="https://github.com/user-attachments/assets/6ff55e45-6b0c-4341-86df-7a363f6cc681" />
 
 ## API Documentation
 
