@@ -1,0 +1,18 @@
+{
+	"/": [],
+	"/dashboard": [],
+	"/dashboard/certificates": [],
+	"/dashboard/certificates/convert": [],
+	"/dashboard/certificates/csr": [],
+	"/dashboard/certificates/generate": [],
+	"/dashboard/certificates/keys": [],
+	"/dashboard/certificates/parse": [],
+	"/dashboard/certificates/verify": [],
+	"/dashboard/encryption": [],
+	"/dashboard/encryption/asymmetric": [],
+	"/dashboard/encryption/hash": [],
+	"/dashboard/encryption/symmetric": [],
+	"/dashboard/operations": [],
+	"/login": [],
+	"/register": []
+}
