@@ -69,25 +69,14 @@ A comprehensive, production-ready web interface for OpenSSL operations with mode
    - Backend API: http://localhost:8080
    - API Docs: http://localhost:8080/swagger
 
-## Pricing Plans
+## Screenshots
+![Dashboard](<img width="1920" height="2294" alt="homepage" src="https://github.com/user-attachments/assets/6ff55e45-6b0c-4341-86df-7a363f6cc681" />)
+<img width="1920" height="911" alt="loginpage" src="https://github.com/user-attachments/assets/8a8624e9-c1e2-44b9-a20f-6aae0f461cf5" />
+<img width="1920" height="911" alt="encription" src="https://github.com/user-attachments/assets/92683bee-4a8a-4c47-8434-91e25ca3d88a" />
+<img width="1920" height="911" alt="certificate page" src="https://github.com/user-attachments/assets/8f655011-8039-46eb-9705-761ae9da761e" />
+<img width="1920" height="911" alt="dashboard" src="https://github.com/user-attachments/assets/e55bf033-86f7-4445-8930-3071c04ed0ec" />
 
-### Free Tier
-- 50 operations/month
-- Basic certificate operations
-- Community support
-
-### Pro Tier - $19/month
-- 5,000 operations/month
-- Advanced features
-- Priority support
-- API access
-
-### Enterprise - $99/month
-- Unlimited operations
-- White-label solution
-- SSO integration
-- SLA guarantee
-- 24/7 support
+![Dashboard](<img width="1920" height="2294" alt="homepage" src="https://github.com/user-attachments/assets/6ff55e45-6b0c-4341-86df-7a363f6cc681" />)
 
 ## API Documentation
 
